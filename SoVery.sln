@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoVery.API", "SoVery.API\SoVery.API.csproj", "{B7421B8E-2AD6-446D-8505-7D5A947B3885}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7421B8E-2AD6-446D-8505-7D5A947B3885}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7421B8E-2AD6-446D-8505-7D5A947B3885}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7421B8E-2AD6-446D-8505-7D5A947B3885}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7421B8E-2AD6-446D-8505-7D5A947B3885}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEBB4F91-FFF4-45CA-97FD-523220ED2285}
+	EndGlobalSection
+EndGlobal
